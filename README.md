@@ -11,3 +11,6 @@ Customer reviews are essential in creating social proof. This marketing term bas
 
 customer-reviews-1
 Not only do customer reviews establish social proof, credibility and trust in your site, there’s some other very welcome benefits of setting them up
+
+technology used: HTML ,CSS ,javascript
+
